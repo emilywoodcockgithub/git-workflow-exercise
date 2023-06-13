@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _add
+git add  -A
 
 # commit changes
-git _commit
+git commit -m "filled in workflow script"	
 
 # push changes
-git _push
+git push origin main
