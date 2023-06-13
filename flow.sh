@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git _add
 
 # commit changes
-git _
+git _commit
 
 # push changes
-git _
+git _push
